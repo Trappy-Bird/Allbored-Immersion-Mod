@@ -1,5 +1,0 @@
-owner = BTV
-controller = BTV
-add_core = BTV
-trade_goods = tropical_wood
-life_rating = 20

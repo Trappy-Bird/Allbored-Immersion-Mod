@@ -1,8 +1,0 @@
-owner = FUN
-controller = FUN
-add_core = FUN
-add_core = ETH
-trade_goods = wool
-life_rating = 35
-
-
